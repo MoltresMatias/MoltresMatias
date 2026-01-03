@@ -17,7 +17,7 @@ Me apasiona la **optimización de infraestructura backend**, la integración de 
 - **Lenguajes:** JavaScript, SQL, Python  
 - **Frameworks:** Node.js, Express  
 - **Bases de datos:** MySQL, PostgreSQL, Supabase  
-- **DevOps:** Docker, Railway  
+- **DevOps:** Docker, Railway, AWS  
 - **Otros:** Git, Windows optimización
 
 ---
@@ -29,7 +29,7 @@ Me apasiona la **optimización de infraestructura backend**, la integración de 
 - **API REST con Node.js/Express**  
   Endpoints seguros y escalables, integrados con PostgreSQL.
 
-- **Deploy en Docker + Railway**  
+- **Deploy en Docker + EC2**  
   Configuración de contenedores y troubleshooting de entornos cloud.
 
 ---
