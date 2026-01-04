@@ -5,7 +5,7 @@
 Soy desarrollador en transición hacia roles **Backend y Fullstack**, con experiencia en:
 - 🚀 Migración de **MySQL → PostgreSQL/Supabase**
 - 🔧 Desarrollo de **API REST** con **Node.js/Express**
-- 🐳 Deploys en **Docker** y plataformas cloud (Railway, Supabase)
+- 🐳 Deploys en **Docker** y plataformas cloud (Railway, Supabase, EC2)
 - 🛠️ Troubleshooting y optimización de conexiones SQL en contenedores
 
 Actualmente estudio **Ciencias de la Computación** en la **Universidad de Buenos Aires (UBA)**.  
