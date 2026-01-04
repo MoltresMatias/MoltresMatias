@@ -31,6 +31,7 @@ Me apasiona la **optimización de infraestructura backend**, la integración de 
 
 - **Deploy en Docker + EC2**  
   Configuración de contenedores y troubleshooting de entornos cloud.
+  [Api para poder hacer consultas](http://52.14.79.37:3000/api/employees)
 
 ---
 
